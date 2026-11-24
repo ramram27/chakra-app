@@ -1,5 +1,6 @@
 
 function HomeComp() {
+    console.log("Hello")
     return (
         <div>
            <div>
